@@ -1,0 +1,18 @@
+{
+  "element": "#q-app > div > main > div:nth-child(3) > div > div > div.products-catalog > div > div.products-list-item",
+  "title": "div.products-list-item__info > a",
+  "alternativeTitle": "",
+  "price": "div.products-list-item__info > div > div.products-list-item__actions-wr > div.products-list-item__actions.row.items-center.justify-between > div.products-list-item__actions-price > div",
+  "image": "div.products-list-item__img > div > a > div > div > div > div > img",
+  "linkProduct": "div.products-list-item__info > a",
+  "linkReviews": "div.products-list-item__info > div > div.products-list-item__bottom-content-header > a",
+  "reviewList": "#q-app > div > main > div.page-container.common-template__tab > div > div > section > div.fdb-list > section",
+  "name": "#q-app > div > main > div.page-container.common-template__tab > div > div > section > div.fdb-list > section > div.r-item__content > div.r-item__header > div > div.r-item__nickname.ellipsis",
+  "time": "#q-app > div > main > div.page-container.common-template__tab > div > div > section > div.fdb-list > section > div.r-item__aside > span",
+  "rating": "#q-app > div > main > div.page-container.common-template__tab > div > div > section > div.fdb-list > section > div.r-item__aside > div > div",
+  "review": "#q-app > div > main > div.page-container.common-template__tab > div > div > section > div.fdb-list > section > div.r-item__content > div.r-item__text",
+  "pros": "#q-app > div > main > div.page-container.common-template__tab > div > div > section > div.fdb-list > section > div.r-item__content > div:nth-child(4)",
+  "cons": "#q-app > div > main > div.page-container.common-template__tab > div > div > section > div.fdb-list > section:nth-child(1) > div.r-item__content > div:nth-child(5)",
+  "nextPage": "#q-app > div > main > div:nth-child(3) > div > div.category-content.main__content > div.pagination.category-content__pagination > nav > a:nth-child(9)",
+  "nextReviewsPage": "#q-app > div > main > div.page-container.common-template__tab > div > div > section > div.pagination.fdb-pagination > div > div.gen-more.pagination__buttons_show-more.cursor-pointer"
+}

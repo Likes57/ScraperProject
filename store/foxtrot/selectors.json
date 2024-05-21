@@ -1,0 +1,18 @@
+{
+  "element": "#listing-page-container > div > div > div.listing > div.listing__body > div > div.listing__body-wrap.image-switch > section > article > div",
+  "title": "#listing-page-container > div > div > div.listing > div.listing__body > div > div.listing__body-wrap.image-switch > section > article > div > div.card__body > a",
+  "alternativeTitle": "",
+  "price": "#listing-page-container > div > div > div.listing > div.listing__body > div > div.listing__body-wrap.image-switch > section > article > div > div.card__body > div.card__col-price > div.card__price > div > div.card-price",
+  "image": "#listing-page-container > div > div > div.listing > div.listing__body > div > div.listing__body-wrap.image-switch > section > article > div > div.card__head > div.card__image > a > picture > img",
+  "linkProduct": "#listing-page-container > div > div > div.listing > div.listing__body > div > div.listing__body-wrap.image-switch > section > article > div > div.card__body > a",
+  "linkReviews": "#listing-page-container > div > div > div.listing > div.listing__body > div > div.listing__body-wrap.image-switch > section > article > div > div.card__body > a",
+  "reviewList": "#anchor-3 > div > div.main-reviews__content > div.main-reviews__tabs-content.js-review-tabs > div.js-review-tab.comments-only > div.comments-container.comments-only > div",
+  "name": "#anchor-3 > div > div.main-reviews__content > div.main-reviews__tabs-content.js-review-tabs > div.js-review-tab.comments-only > div.comments-container.comments-only > div > div.product-comment__header > div.product-comment__item-title",
+  "time": "#anchor-3 > div > div.main-reviews__content > div.main-reviews__tabs-content.js-review-tabs > div.js-review-tab.comments-only > div.comments-container.comments-only > div > div.product-comment__item-date",
+  "rating": "#anchor-3 > div > div.main-reviews__content > div.main-reviews__tabs-content.js-review-tabs > div.js-review-tab.comments-only > div.comments-container.comments-only > div > div.product-comment__header > div.product-comment__item-rating > span",
+  "review": "#anchor-3 > div > div.main-reviews__content > div.main-reviews__tabs-content.js-review-tabs > div.js-review-tab.comments-only > div.comments-container.comments-only > div > div.product-comment__body.product-comment-photo-right-side > div.product-comment__content > div",
+  "pros": "#anchor-3 > div > div.main-reviews__content > div.main-reviews__tabs-content.js-review-tabs > div.js-review-tab.comments-only > div.comments-container.comments-only > div > div.product-comment__body.product-comment-photo-right-side > div.product-comment__content > ul > li:nth-child(1) > p",
+  "cons": "#anchor-3 > div > div.main-reviews__content > div.main-reviews__tabs-content.js-review-tabs > div.js-review-tab.comments-only > div.comments-container.comments-only > div > div.product-comment__body.product-comment-photo-right-side > div.product-comment__content > ul > li:nth-child(2) > p",
+  "nextPage": "",
+  "nextReviewsPage": "#anchor-3 > div > div.main-reviews__content > div.main-reviews__tabs-content.js-review-tabs > div.js-review-tab.comments-only > div.main-reviews__item > div > a"
+}

@@ -1,0 +1,18 @@
+{
+  "element": "#__layout > div > div:nth-child(2) > div.v-catalog.v-category > div > div.v-catalog__products > div.products-layout__container.products-layout--grid > div > div",
+  "title": "#__layout > div > div:nth-child(2) > div.v-catalog.v-category > div > div.v-catalog__products > div.products-layout__container.products-layout--grid > div > div > div.product-card__content > a",
+  "alternativeTitle": "",
+  "price": "#__layout > div > div:nth-child(2) > div.v-catalog.v-category > div > div.v-catalog__products > div.products-layout__container.products-layout--grid > div > div > div.product-card__content > div.product-card__buy-box > div > div.v-pb__cur.discount > span.sum",
+  "image": "#__layout > div > div:nth-child(2) > div.v-catalog.v-category > div > div.v-catalog__products > div.products-layout__container.products-layout--grid > div > div > div.product-card__pictures > div > a > div.image-carousel__container > div > picture > img",
+  "linkProduct": "#__layout > div > div:nth-child(2) > div.v-catalog.v-category > div > div.v-catalog__products > div.products-layout__container.products-layout--grid > div > div > div.product-card__content > a",
+  "linkReviews": "#__layout > div > div:nth-child(2) > div.v-catalog.v-category > div > div.v-catalog__products > div.products-layout__container.products-layout--grid > div > div > div.product-card__content > div.product-card__main > div > div.actions__container > div > a",
+  "reviewList": "#__layout > div > div.page__content.page__content--inverse > div.product-view.product-view--discussion > section > div > div.comments-tab > div > div",
+  "name": "#__layout > div > div.page__content.page__content--inverse > div.product-view.product-view--discussion > section > div > div.comments-tab > div > div > div.product-comment__header > div.user > h4",
+  "time": "#__layout > div > div.page__content.page__content--inverse > div.product-view.product-view--discussion > section > div > div.comments-tab > div > div > div.product-comment__header > div.product-comment__info > div > time",
+  "rating": "#__layout > div > div.page__content.page__content--inverse > div.product-view.product-view--discussion > section > div > div.comments-tab > div > div > div.product-comment__header > div.user > div > span",
+  "review": "#__layout > div > div.page__content.page__content--inverse > div.product-view.product-view--discussion > section > div > div.comments-tab > div > div > div.product-comment__main > div.v-rm-text.product-comment__text > p",
+  "pros": "#__layout > div > div.page__content.page__content--inverse > div.product-view.product-view--discussion > section > div > div.comments-tab > div > div > div.product-comment__main > div.v-rm-text.product-comment__text.v-rm-text--full > div:nth-child(2) > p:nth-child(2)",
+  "cons": "#__layout > div > div.page__content.page__content--inverse > div.product-view.product-view--discussion > section > div > div.comments-tab > div > div > div.product-comment__main > div.v-rm-text.product-comment__text.v-rm-text--full > div:nth-child(3) > p:nth-child(2)",
+  "nextPage": "#__layout > div > div:nth-child(2) > div.v-catalog.v-category > div > div.v-catalog__products > div.pagination > div.pagination__next > a",
+  "nextReviewsPage": "#__layout > div > div.page__content.page__content--inverse > div.product-view.product-view--discussion > section > div > p > a"
+}

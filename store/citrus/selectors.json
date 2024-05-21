@@ -1,0 +1,17 @@
+{
+  "element": "#__next > div > div.df.fdc.full > main > div > div.main-container > div.CategoryFilter_wrapper__14u0Z > div.widgets.ovxh.widgets-catalog > div.catalog-facet > div > div > a",
+  "title": "#__next > div > div.df.fdc.full > main > div > div.main-container > div.CategoryFilter_wrapper__14u0Z > div.widgets.ovxh.widgets-catalog > div > div > div > a > div > div.MainProductCard-module__block___FPWMo > span",
+  "price": "#__next > div > div.df.fdc.full > main > div > div.main-container > div.CategoryFilter_wrapper__14u0Z > div.widgets.ovxh.widgets-catalog > div > div > div > a > div > div:nth-child(3) > div > div > div > span",
+  "image": "#__next > div > div.df.fdc.full > main > div > div.main-container > div.CategoryFilter_wrapper__14u0Z > div.widgets.ovxh.widgets-catalog > div > div > div > a > div > div.MainProductCard-module__block___FPWMo > div > div > img",
+  "linkProduct": "div",
+  "linkReviews": "div",
+  "reviewList": "#__next > div > div.df.fdc.full > main > div.widgets > div.main-container.ProductPage_cardContainer__pFJub > div > div.ProductPage_card__1meua.ovh.ProductPage_cardAnotherTabs__PmEB5 > div.widgets.Reviews_root__G8Ji_ > div.Reviews_wrapper__2rVn7 > div.Reviews_comment__lLauK > div",
+  "name": "div > div.ReviewHeader-module__header___265gp.df.jcsb.mb8 > div > div > div > p",
+  "time": "div > div.ReviewHeader-module__header___265gp.df.jcsb.mb8 > div > p",
+  "rating": "div > div.Rating-module__root___-mOdP.Review-module__rating___3BSui.mb8",
+  "review": "div > p:nth-child(3)",
+  "pros": "div > p:nth-child(4)",
+  "cons": "div > p:nth-child(5)",
+  "nextPage": "#__next > div > div.df.fdc.full > main > div > div.main-container > div.CategoryFilter_wrapper__14u0Z > div.widgets.ovxh.widgets-catalog > div.Pagination_pagination__nH8H0.df.jcc > a:nth-last-child(1)",
+  "nextReviewsPage": "#__next > div > div.df.fdc.full > main > div.widgets > div.main-container.ProductPage_cardContainer__pFJub > div > div.ProductPage_card__1meua.ovh.ProductPage_cardAnotherTabs__PmEB5 > div.widgets.Reviews_root__G8Ji_ > div.Reviews_paginationContainer__Xw_0i.df.jcc > div > div:nth-last-child(1)"
+}
